@@ -24,8 +24,8 @@ This web application predicts the future prices of the S&P 500 stock market inde
 
 1. Clone the repository:
    ```
-   git clone [Your Repository URL]
-   cd [Your Repository Name]
+   git clone https://github.com/Koteswararao-Gutta/Stock_Price_Pridiction_ARIMA_LSTM/edit/main/README.md
+   cd Stock_Price_Pridiction_ARIMA_LSTM
    ```
 
 2. Create a virtual environment:
