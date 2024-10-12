@@ -86,7 +86,3 @@ For any other issues, please open an issue in the project repository.
 ## Contributing
 
 Contributions to improve the application are welcome. Please feel free to fork the repository and submit pull requests.
-
-## License
-
-[Specify your license here, e.g., MIT License, GPL, etc.]
